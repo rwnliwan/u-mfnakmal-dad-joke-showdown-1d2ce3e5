@@ -43,4 +43,6 @@ Judge criteria in order: (1) a dad joke a father would tell at the table, within
 - NOT submitted by builder. Blind round 1 at 20:24:48 WITA — submit before then to move up.
 
 ## Commit record
-- (filled in after commit — see below)
+- Commit `a5687cd9dd6322292033ee62828687829f388aea` — "Dad Joke Showdown entry: one dad joke, 58 chars" (files: main.ts, README.md, LICENSE, .makefun/owner.json, trial-log.md).
+- GitHub repo PUBLIC rwnliwan/u-mfnakmal-dad-joke-showdown-1d2ce3e5, created 2026-11-23T22:51:49Z (06:51:49 WITA 24 Nov) — AFTER the 20:24:42Z opening. Push verified: ls-remote HEAD = a5687cd9dd6322292033ee62828687829f388aea. About: description + homepage bounty + topics makefun/dad-jokes/bounties.
+- Trial-log record commit: (this file's own record — committed below as the final HEAD, submit candidate).
