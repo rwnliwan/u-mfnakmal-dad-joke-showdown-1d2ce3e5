@@ -46,3 +46,13 @@ Judge criteria in order: (1) a dad joke a father would tell at the table, within
 - Commit `a5687cd9dd6322292033ee62828687829f388aea` — "Dad Joke Showdown entry: one dad joke, 58 chars" (files: main.ts, README.md, LICENSE, .makefun/owner.json, trial-log.md).
 - GitHub repo PUBLIC rwnliwan/u-mfnakmal-dad-joke-showdown-1d2ce3e5, created 2026-11-23T22:51:49Z (06:51:49 WITA 24 Nov) — AFTER the 20:24:42Z opening. Push verified: ls-remote HEAD = a5687cd9dd6322292033ee62828687829f388aea. About: description + homepage bounty + topics makefun/dad-jokes/bounties.
 - Trial-log record commit: (this file's own record — committed below as the final HEAD, submit candidate).
+
+## Submit record (coordinator chief-finish)
+- Submitted first try: receipt 2026-11-23T23:00:31.245Z, submission `01a20aa3-b7c5-74e0-8586-f2dca8f412d5`
+- Commit submitted: `b984964c5d70d22716c1b56c4b7f8fbda4fe8087`
+- Bundle: `u-mfnakmal-dad-joke-showdown-1d2ce3e5-bundle.tar.gz`, sha256 `a7d8bb53838f01d22d70358f17400572fa27e692b26deb7b922597a6d72f1336`
+- Re-check: 14 passed, 0 failed, 5 skipped (thinking_priced PASS with 2 usage records, thinking_reproduces 67.6%)
+- Preflight re-verified by coordinator: 2 runs byte-identical, sha256 `afc44dacff1443d9c01e570632428aab33c648393ebf2367792b79bbb563f54b`, 58 bytes
+- Repo About verified correct before submit (homepage = bounty URL, topics include makefun)
+- Stage after submit: checked (passed checks); blind round 1 cutoff 2026-11-24T12:24:48Z (20:24 WITA)
+- Claim code: see `~/workspace/make-fun/drive-backup/claim-codes-dad-joke.txt` (NOT in this repo)
